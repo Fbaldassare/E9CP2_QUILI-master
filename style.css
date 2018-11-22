@@ -1,0 +1,35 @@
+.avatar{
+    height: 35px;
+    width: 35px;
+    background-image: url('img/supportmale-512.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 50%;
+}
+
+.button-submit{
+    padding: 4px 4px;
+    border: 1px solid lightgreen;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(67, 126, 67);
+    margin-top: 10px;
+    box-shadow: none;    
+    display: block;
+    margin-left: 75%;
+    width: 25%;
+}
+
+#board{
+    width: 100%;
+    box-sizing: border-box;
+    padding:20px;
+    background-color: lightgray;
+}
+
+#mytext{
+    width: 100%;
+    border-radius: 5px;
+    border:1px solid black;
+}
